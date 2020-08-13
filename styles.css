@@ -1,0 +1,31 @@
+.background__blue{
+    background: blue;
+}
+.background__red{
+    background: red;
+}
+.background__yellow{
+    background: yellow;
+}
+.background__grey{
+    background: grey;
+}
+.background__orange{
+    background: orange;
+}
+.margin-left__0{
+    margin-left:0;
+}
+.margin-right__0{
+    margin-right:0;
+}
+.margin-top__0{
+    margin-top:0;
+}
+.margin-bottom__0{
+    margin-bottom:0;
+}
+.center{
+    margin: auto;
+    text-align: center;
+}
